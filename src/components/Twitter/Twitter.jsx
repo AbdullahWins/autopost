@@ -1,8 +1,7 @@
 const Twitter = () => {
   return (
     <div>
-      <p>lol</p>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <p className="text-3xl font-bold">Twitter API</p>
     </div>
   );
 };
